@@ -5,7 +5,6 @@
 
 🔭 I’m currently working on general Reinforcement Learning for discrete event simulation. Stay tuned!
 
-Check out my [website](https://patrickbraypersonal.github.io/)
 <!--
 **PatrickBrayPersonal/PatrickBrayPersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
