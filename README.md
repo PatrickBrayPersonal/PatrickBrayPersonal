@@ -1,4 +1,4 @@
-### Howdy 👋
+### 👋
 📫 How to reach me: patrickbray17@gmail.com
 
 🌱 I’m currently learning Deep Learning in the [Georgia Tech OMSA Program](https://pe.gatech.edu/degrees/analytics)
