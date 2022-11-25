@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning Deep Learning in the [Georgia Tech OMSA Program](https://pe.gatech.edu/degrees/analytics)
 
-🔭 I’m currently working on general Reinforcement Learning for discrete event simulation. Stay tuned!
-
 <!--
 **PatrickBrayPersonal/PatrickBrayPersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
