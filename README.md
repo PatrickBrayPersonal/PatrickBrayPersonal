@@ -1,7 +1,7 @@
 ### 👋
 📫 How to reach me: patrickbray17@gmail.com
 
-🌱 I’m currently learning Deep Learning in the [Georgia Tech OMSA Program](https://pe.gatech.edu/degrees/analytics)
+<!-- 🌱 I’m currently learning Deep Learning in the [Georgia Tech OMSA Program](https://pe.gatech.edu/degrees/analytics) -->
 
 <!--
 **PatrickBrayPersonal/PatrickBrayPersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
